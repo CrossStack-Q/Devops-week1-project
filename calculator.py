@@ -6,7 +6,7 @@ def add(a, b):
 
 # Subtract Method
 def sub(a, b):
-    return a + b
+    return a - b
 
 
 # Multiplication
